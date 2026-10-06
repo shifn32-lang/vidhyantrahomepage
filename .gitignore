@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local database (contains admin login and form submissions)
+db.sqlite3
+
+# Collected static files
+staticfiles/
+
+# Environments / secrets
+.env
+venv/
+.venv/
